@@ -18,5 +18,10 @@
 <a href="https://github.com/cmames/toast-javascript">https://github.com/cmames/toast-javascript</a>
 
 add toast.js in your html <head>
+  
+  call in javascript
+  ```
+  toast("your message like Hello World");
+  ```
 
 toast.css is an example of css
